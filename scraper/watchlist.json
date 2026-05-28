@@ -1,0 +1,22 @@
+{
+  "description": "Tickers to track on SEC EDGAR. Edit this list to change which companies the scraper follows.",
+  "forms": ["10-K", "10-Q", "8-K", "S-1", "DEF 14A", "4"],
+  "max_filings_per_company": 25,
+  "tickers": [
+    "AAPL",
+    "MSFT",
+    "NVDA",
+    "AMZN",
+    "GOOGL",
+    "META",
+    "TSLA",
+    "NFLX",
+    "AMD",
+    "INTC",
+    "JPM",
+    "KO",
+    "DIS",
+    "BA",
+    "COIN"
+  ]
+}
