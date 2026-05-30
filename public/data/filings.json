@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-29T10:31:20+00:00",
+    "generated_at": "2026-05-30T09:00:39+00:00",
     "source": "SEC EDGAR (https://www.sec.gov/edgar)",
     "companies_tracked": 15,
     "total_filings": 375,
@@ -14,6 +14,66 @@
     ]
   },
   "filings": [
+    {
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "cik": 320193,
+      "form": "4",
+      "filing_date": "2026-05-29",
+      "report_date": "2026-05-27",
+      "accession": "0001140361-26-023363",
+      "primary_doc_description": "FORM 4",
+      "document_url": "https://www.sec.gov/Archives/edgar/data/320193/000114036126023363/xslF345X06/form4.xml",
+      "filing_index_url": "https://www.sec.gov/Archives/edgar/data/320193/000114036126023363/0001140361-26-023363-index.htm"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA CORP",
+      "cik": 1045810,
+      "form": "4",
+      "filing_date": "2026-05-29",
+      "report_date": "2026-05-27",
+      "accession": "0001818224-26-000004",
+      "primary_doc_description": "FORM 4",
+      "document_url": "https://www.sec.gov/Archives/edgar/data/1045810/000181822426000004/xslF345X06/wk-form4_1780087807.xml",
+      "filing_index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000181822426000004/0001818224-26-000004-index.htm"
+    },
+    {
+      "ticker": "META",
+      "company": "Meta Platforms, Inc.",
+      "cik": 1326801,
+      "form": "4",
+      "filing_date": "2026-05-29",
+      "report_date": "2026-05-27",
+      "accession": "0000950103-26-008089",
+      "primary_doc_description": "FORM 4",
+      "document_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326008089/xslF345X06/ownership.xml",
+      "filing_index_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326008089/0000950103-26-008089-index.htm"
+    },
+    {
+      "ticker": "META",
+      "company": "Meta Platforms, Inc.",
+      "cik": 1326801,
+      "form": "8-K",
+      "filing_date": "2026-05-29",
+      "report_date": "2026-05-27",
+      "accession": "0001628280-26-039193",
+      "primary_doc_description": "8-K",
+      "document_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026039193/meta-20260527.htm",
+      "filing_index_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026039193/0001628280-26-039193-index.htm"
+    },
+    {
+      "ticker": "COIN",
+      "company": "Coinbase Global, Inc.",
+      "cik": 1679788,
+      "form": "4",
+      "filing_date": "2026-05-29",
+      "report_date": "2026-05-27",
+      "accession": "0001679788-26-000062",
+      "primary_doc_description": "FORM 4",
+      "document_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000062/xslF345X06/wk-form4_1780092764.xml",
+      "filing_index_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000062/0001679788-26-000062-index.htm"
+    },
     {
       "ticker": "META",
       "company": "Meta Platforms, Inc.",
@@ -1347,18 +1407,6 @@
       "filing_index_url": "https://www.sec.gov/Archives/edgar/data/1018724/000137454526000006/0001374545-26-000006-index.htm"
     },
     {
-      "ticker": "META",
-      "company": "Meta Platforms, Inc.",
-      "cik": 1326801,
-      "form": "4",
-      "filing_date": "2026-05-06",
-      "report_date": "2026-05-04",
-      "accession": "0000950103-26-006913",
-      "primary_doc_description": "FORM 4",
-      "document_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326006913/xslF345X06/ownership.xml",
-      "filing_index_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326006913/0000950103-26-006913-index.htm"
-    },
-    {
       "ticker": "AMD",
       "company": "ADVANCED MICRO DEVICES INC",
       "cik": 2488,
@@ -1417,18 +1465,6 @@
       "primary_doc_description": "FORM 4",
       "document_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000016/xslF345X06/wk-form4_1778013416.xml",
       "filing_index_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000016/0001018724-26-000016-index.htm"
-    },
-    {
-      "ticker": "META",
-      "company": "Meta Platforms, Inc.",
-      "cik": 1326801,
-      "form": "4",
-      "filing_date": "2026-05-05",
-      "report_date": "2026-05-01",
-      "accession": "0000950103-26-006874",
-      "primary_doc_description": "FORM 4",
-      "document_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326006874/xslF345X06/ownership.xml",
-      "filing_index_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326006874/0000950103-26-006874-index.htm"
     },
     {
       "ticker": "NFLX",
@@ -3639,18 +3675,6 @@
       "filing_index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000169684126000002/0001696841-26-000002-index.htm"
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA CORP",
-      "cik": 1045810,
-      "form": "4",
-      "filing_date": "2026-03-04",
-      "report_date": "2026-03-02",
-      "accession": "0001197649-26-000003",
-      "primary_doc_description": "FORM 4",
-      "document_url": "https://www.sec.gov/Archives/edgar/data/1045810/000119764926000003/xslF345X05/wk-form4_1772663406.xml",
-      "filing_index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000119764926000003/0001197649-26-000003-index.htm"
-    },
-    {
       "ticker": "MSFT",
       "company": "MICROSOFT CORP",
       "cik": 789019,
@@ -4143,18 +4167,6 @@
       "filing_index_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000023/0001679788-26-000023-index.htm"
     },
     {
-      "ticker": "COIN",
-      "company": "Coinbase Global, Inc.",
-      "cik": 1679788,
-      "form": "4",
-      "filing_date": "2026-02-18",
-      "report_date": "2026-02-14",
-      "accession": "0001679788-26-000022",
-      "primary_doc_description": "FORM 4",
-      "document_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000022/xslF345X05/wk-form4_1771449863.xml",
-      "filing_index_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000022/0001679788-26-000022-index.htm"
-    },
-    {
       "ticker": "MSFT",
       "company": "MICROSOFT CORP",
       "cik": 789019,
@@ -4237,18 +4249,6 @@
       "primary_doc_description": "FORM 4",
       "document_url": "https://www.sec.gov/Archives/edgar/data/320193/000121412826000002/xslF345X05/wk-form4_1770161713.xml",
       "filing_index_url": "https://www.sec.gov/Archives/edgar/data/320193/000121412826000002/0001214128-26-000002-index.htm"
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "cik": 320193,
-      "form": "4",
-      "filing_date": "2026-02-03",
-      "report_date": "2026-02-01",
-      "accession": "0001051401-26-000002",
-      "primary_doc_description": "FORM 4",
-      "document_url": "https://www.sec.gov/Archives/edgar/data/320193/000105140126000002/xslF345X05/wk-form4_1770161657.xml",
-      "filing_index_url": "https://www.sec.gov/Archives/edgar/data/320193/000105140126000002/0001051401-26-000002-index.htm"
     },
     {
       "ticker": "MSFT",
